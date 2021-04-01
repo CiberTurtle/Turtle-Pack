@@ -1,0 +1,10 @@
+{
+	"textures": [
+		"minecraft:critical_hit_0",
+		"minecraft:critical_hit_1",
+		"minecraft:critical_hit_2",
+		"minecraft:critical_hit_3",
+		"minecraft:critical_hit_4",
+		"minecraft:critical_hit_5"
+	]
+}
