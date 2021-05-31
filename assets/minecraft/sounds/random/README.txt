@@ -1,0 +1,1 @@
+Enable "_successful_hit.ogg" if you're not planning to play on non vanilla servers

@@ -1,11 +1,15 @@
 # Turtle Pack
 
-_v1.0_
+_v1.1_
+
+**Compatible with 1.17!**
+
+# What's In The Pack
+
+_some screenshots may be outdated_
 
 ![Cooking](https://raw.githubusercontent.com/CiberTurtle/Turtle-Pack-1.16/main/screenshots/Cooking.png)
 ![Food Value](https://raw.githubusercontent.com/CiberTurtle/Turtle-Pack-1.16/main/screenshots/Food%20Value.png)
-
-## Improvements
 
 - A flat, dark ui
 - Cleaner cake
@@ -40,13 +44,13 @@ _v1.0_
 - Consistent netherite armor
 - Gold crown helment
 
-### Glowy Things
+## Glowy Things
 
 ![Glowy Things](https://raw.githubusercontent.com/CiberTurtle/Turtle-Pack-1.16/main/screenshots/Glowy%20Things.png)
 ![Staredown](https://raw.githubusercontent.com/CiberTurtle/Turtle-Pack-1.16/main/screenshots/Staredown.png)
 ^ The eyes
 
-### Other Tables
+## Other Tables
 
 ![Beconing](https://raw.githubusercontent.com/CiberTurtle/Turtle-Pack-1.16/main/screenshots/Beconing.png)
 ![Cartography](https://raw.githubusercontent.com/CiberTurtle/Turtle-Pack-1.16/main/screenshots/Cartography.png)
@@ -54,7 +58,7 @@ _v1.0_
 ^ More clear "takeout only" inventory slots (a box with a dot in it instead of a big box)
 ![Stone Cutting](https://raw.githubusercontent.com/CiberTurtle/Turtle-Pack-1.16/main/screenshots/Stone%20Cutting.png)
 
-### Other Other
+## Other Things
 
 ![Menus](https://raw.githubusercontent.com/CiberTurtle/Turtle-Pack-1.16/main/screenshots/Menus.png)
 
@@ -64,4 +68,11 @@ _v1.0_
 ![Main Menu](https://raw.githubusercontent.com/CiberTurtle/Turtle-Pack-1.16/main/screenshots/Main%20Menu.png)
 ^ Just looks cool
 
+_+ Better sound rffects and a bunch of other changes..._
+
 ![THX](https://raw.githubusercontent.com/CiberTurtle/Turtle-Pack-1.16/main/screenshots/THX.png)
+
+# Credits:
+
+- Vanilla Tweaks for a lot of things: https://vanillatweaks.net
+- New Default+ for cit textures and some sounds: https://www.curseforge.com/minecraft/texture-packs/newdefaultplus

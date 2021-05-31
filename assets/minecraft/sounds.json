@@ -1,0 +1,53 @@
+{
+	"game.player.die": {
+		"replace": true,
+		"sounds": ["damage/death"]
+	},
+	"game.neutral.die": {
+		"replace": true,
+		"sounds": ["damage/death"]
+	},
+	"game.hostile.die": {
+		"replace": true,
+		"sounds": ["damage/death"]
+	},
+	"entity.player.death": {
+		"replace": true,
+		"sounds": ["damage/death"]
+	},
+	"item.chorus_fruit.teleport": {
+		"replace": true,
+		"sounds": ["item/chorus_fruit/portal1", "item/chorus_fruit/portal2"]
+	},
+	"minecraft:entity.arrow.hit_player": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "random/successful_hit",
+				"pitch": 1.0
+			}
+		]
+	},
+	"entity.splash_potion.break": {
+		"replace": true,
+		"sounds": ["item/splash_potion/break1", "item/splash_potion/break2", "item/splash_potion/break3"]
+	},
+	"entity.splash_potion.throw": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "item/splash_potion/throw",
+				"pitch": 1.0
+			}
+		]
+	},
+	"entity.experience_bottle.throw": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "item/experience_bottle/throw",
+				"pitch": 1.0
+			}
+		]
+	}
+}
