@@ -1,9 +1,9 @@
 {
 	"pack": {
-		"pack_format": 6,
+		"pack_format": 7,
 		"description": [
 			{ "text": "Turtle Pack", "color": "green" },
-			{ "text": "\nv1.1", "color": "gray" }
+			{ "text": "\nv1.2", "color": "gray" }
 		]
 	}
 }
